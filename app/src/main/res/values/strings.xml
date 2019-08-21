@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Demo App</string>
+    <string name="title">Matematikk</string>
+    <string name="startButton">Start</string>
+    <string name="staticsButton">Statistikk</string>
+    <string name="prefButton">Preferanse</string>
 </resources>
